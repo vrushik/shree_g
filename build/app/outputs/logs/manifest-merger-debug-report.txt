@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:1:1-56:12
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:1:1-56:12
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:1:1-56:12
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:1:1-56:12
+MERGED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:1:1-56:12
+MERGED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:package_info] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:location] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:location_web] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\location_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:appcenter] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\appcenter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:connectivity] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:shared_preferences] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:appcenter_crashes] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\appcenter_crashes\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:permission] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\permission\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:screen] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\screen\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:app_settings] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\app_settings\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\e44419cbfc0a60a8a083b996b2ab7de9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f0d60297b415896f7a5a975d51458e2d\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\e57f337cd2fa2534c1e463461ca29fd7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\17b789f879d1819cb8336c4bc0ef18e1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\6d263c8351bfcb17f37619d1e573141f\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b9a9da52bf8caf1114570faa1cd5da7d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\342d39d31a5baca37757a4f44a78666e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\1a8373eb49b7e43bc99f065755f8ffa0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\7701b2374f93922634f03e7c831beca5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\579188c619b448f37cd85a69764707e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\aede4ca87c66417477f2aafb4be88ed2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\c7edfad08827fa3d3b2c4624d4164850\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\dfabd7cf434ff3cc1eee8cf38e3bb1a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\7df2ac0324e684c03402c7ade2b36773\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\0b6494849f5341cd6c2968d761b1a3b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b86a0fd530b43032360415f154ad3142\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f3ea4dba275aab0ca65f1df56fa3277e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\d953dfeb556b67b9bb808510cca63ba0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\ce312fb593b19d461d34b0660ea79ae2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b83998bbfdad9b639d04b31ee478efd4\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\0aae57eb4148bae792027c59ad202e41\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\edd2d1cdd53246fa284039ebfa8ddcf8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\4a1ca59b08414d23c13913532c1ea339\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\7fda614b67b513daf0bb0d0e36da816d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\5fc7c6020af9bf32aaf4f383522dc746\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\976144fb4b636aa8c1501b55412e7f9b\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b88154431056c4123a02b6fef01348ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b8cc5e383e26df788c70eeb1dfe2b363\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b17e8779d36b553be95fd7177f5316fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\ffd628f157d9b7d16047ee16aae83ccf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\823006ce4e231071f84e53c28e878754\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\ccfe3502382a72ab2e417e695401c8e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.10.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\41c7e3f2c8fea6cfaf7fb80b95b4d49b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter:1.10.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\4c067bcd18d3d4929e52710c181f462d\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:1:1-56:12
+		INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:1:1-56:12
+		INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.microsoft.appcenter:appcenter:1.10.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\4c067bcd18d3d4929e52710c181f462d\AndroidManifest.xml:11:5-67
+MERGED from [com.microsoft.appcenter:appcenter:1.10.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\4c067bcd18d3d4929e52710c181f462d\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [:location] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+MERGED from [:location] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:12:5-81
+MERGED from [:location] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:location] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:12:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:16:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:17:19-67
+application
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:19:5-55:19
+MERGED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\e44419cbfc0a60a8a083b996b2ab7de9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\e44419cbfc0a60a8a083b996b2ab7de9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f0d60297b415896f7a5a975d51458e2d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f0d60297b415896f7a5a975d51458e2d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\e57f337cd2fa2534c1e463461ca29fd7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\e57f337cd2fa2534c1e463461ca29fd7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\17b789f879d1819cb8336c4bc0ef18e1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\17b789f879d1819cb8336c4bc0ef18e1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\6d263c8351bfcb17f37619d1e573141f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\6d263c8351bfcb17f37619d1e573141f\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b83998bbfdad9b639d04b31ee478efd4\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b83998bbfdad9b639d04b31ee478efd4\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\976144fb4b636aa8c1501b55412e7f9b\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\976144fb4b636aa8c1501b55412e7f9b\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-rc01] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b83998bbfdad9b639d04b31ee478efd4\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:22:9-46
+	android:icon
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:21:9-43
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:20:9-57
+activity#com.ivcardo.nameboard.MainActivity
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:23:9-49:20
+	android:launchMode
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:27:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:26:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:29:13-55
+	android:configChanges
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:25:13-163
+	android:theme
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:28:13-47
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:24:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:34:13-36:57
+	android:resource
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:36:17-54
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:35:17-72
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:42:13-44:66
+	android:resource
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:44:17-63
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:43:17-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:45:13-48:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:47:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:52:9-54:33
+	android:value
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:54:13-30
+	android:name
+		ADDED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml:53:13-44
+uses-sdk
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml
+MERGED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\package_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location_web] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\location_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location_web] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\location_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:appcenter] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\appcenter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\appcenter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:connectivity] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:appcenter_crashes] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\appcenter_crashes\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:appcenter_crashes] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\appcenter_crashes\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:permission] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\permission\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\permission\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:screen] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\screen\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:screen] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\screen\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:app_settings] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\app_settings\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:app_settings] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\app_settings\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\e44419cbfc0a60a8a083b996b2ab7de9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\e44419cbfc0a60a8a083b996b2ab7de9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f0d60297b415896f7a5a975d51458e2d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f0d60297b415896f7a5a975d51458e2d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\e57f337cd2fa2534c1e463461ca29fd7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\e57f337cd2fa2534c1e463461ca29fd7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\17b789f879d1819cb8336c4bc0ef18e1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\17b789f879d1819cb8336c4bc0ef18e1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\6d263c8351bfcb17f37619d1e573141f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\6d263c8351bfcb17f37619d1e573141f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b9a9da52bf8caf1114570faa1cd5da7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b9a9da52bf8caf1114570faa1cd5da7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\342d39d31a5baca37757a4f44a78666e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\342d39d31a5baca37757a4f44a78666e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\1a8373eb49b7e43bc99f065755f8ffa0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\1a8373eb49b7e43bc99f065755f8ffa0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\7701b2374f93922634f03e7c831beca5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\7701b2374f93922634f03e7c831beca5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\579188c619b448f37cd85a69764707e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\579188c619b448f37cd85a69764707e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\aede4ca87c66417477f2aafb4be88ed2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\aede4ca87c66417477f2aafb4be88ed2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\c7edfad08827fa3d3b2c4624d4164850\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\c7edfad08827fa3d3b2c4624d4164850\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\dfabd7cf434ff3cc1eee8cf38e3bb1a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\dfabd7cf434ff3cc1eee8cf38e3bb1a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\7df2ac0324e684c03402c7ade2b36773\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\7df2ac0324e684c03402c7ade2b36773\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\0b6494849f5341cd6c2968d761b1a3b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\0b6494849f5341cd6c2968d761b1a3b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b86a0fd530b43032360415f154ad3142\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b86a0fd530b43032360415f154ad3142\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f3ea4dba275aab0ca65f1df56fa3277e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f3ea4dba275aab0ca65f1df56fa3277e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\d953dfeb556b67b9bb808510cca63ba0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\d953dfeb556b67b9bb808510cca63ba0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\ce312fb593b19d461d34b0660ea79ae2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\ce312fb593b19d461d34b0660ea79ae2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b83998bbfdad9b639d04b31ee478efd4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-rc01] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b83998bbfdad9b639d04b31ee478efd4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\0aae57eb4148bae792027c59ad202e41\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\0aae57eb4148bae792027c59ad202e41\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\edd2d1cdd53246fa284039ebfa8ddcf8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\edd2d1cdd53246fa284039ebfa8ddcf8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\4a1ca59b08414d23c13913532c1ea339\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\4a1ca59b08414d23c13913532c1ea339\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\7fda614b67b513daf0bb0d0e36da816d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\7fda614b67b513daf0bb0d0e36da816d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\5fc7c6020af9bf32aaf4f383522dc746\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\5fc7c6020af9bf32aaf4f383522dc746\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\976144fb4b636aa8c1501b55412e7f9b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\976144fb4b636aa8c1501b55412e7f9b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b88154431056c4123a02b6fef01348ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b88154431056c4123a02b6fef01348ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b8cc5e383e26df788c70eeb1dfe2b363\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b8cc5e383e26df788c70eeb1dfe2b363\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b17e8779d36b553be95fd7177f5316fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\b17e8779d36b553be95fd7177f5316fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\ffd628f157d9b7d16047ee16aae83ccf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\ffd628f157d9b7d16047ee16aae83ccf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\823006ce4e231071f84e53c28e878754\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\823006ce4e231071f84e53c28e878754\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\ccfe3502382a72ab2e417e695401c8e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\ccfe3502382a72ab2e417e695401c8e7\AndroidManifest.xml:20:5-44
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.10.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\41c7e3f2c8fea6cfaf7fb80b95b4d49b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:1.10.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\41c7e3f2c8fea6cfaf7fb80b95b4d49b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter:1.10.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\4c067bcd18d3d4929e52710c181f462d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter:1.10.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\4c067bcd18d3d4929e52710c181f462d\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rahul Gajera\Desktop\shree_ganesh\android\app\src\debug\AndroidManifest.xml
+provider#io.github.itzmeanjan.intent.MyProvider
+ADDED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-92
+	android:exported
+		ADDED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-66
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:54
+	android:resource
+		ADDED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-51
+	android:name
+		ADDED from [:intent] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\intent\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [com.microsoft.appcenter:appcenter:1.10.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\4c067bcd18d3d4929e52710c181f462d\AndroidManifest.xml:12:5-79
+MERGED from [com.microsoft.appcenter:appcenter:1.10.0] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\4c067bcd18d3d4929e52710c181f462d\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [:connectivity] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:connectivity] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from [:connectivity] C:\Users\Rahul Gajera\Desktop\shree_ganesh\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-73
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f0d60297b415896f7a5a975d51458e2d\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f0d60297b415896f7a5a975d51458e2d\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f0d60297b415896f7a5a975d51458e2d\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\f0d60297b415896f7a5a975d51458e2d\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\6d263c8351bfcb17f37619d1e573141f\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\6d263c8351bfcb17f37619d1e573141f\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Rahul Gajera\.gradle\caches\transforms-2\files-2.1\6d263c8351bfcb17f37619d1e573141f\AndroidManifest.xml:24:13-58
